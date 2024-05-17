@@ -58,7 +58,7 @@
       }
 
       button.equals {
-        grid-area: 2/4/6/5; /* Adjust grid area if needed */
+        grid-area: 2/4/6/5; 
         background-color: #999;
         color: white;
       }
